@@ -1,0 +1,1 @@
+worker: nobe bot.js
